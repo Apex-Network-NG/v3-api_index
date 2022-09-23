@@ -3,10 +3,8 @@
 </script>
 
 <main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<h1>ApexNetwork loves you!</h1>
 	<br>
-	<p>And check out <a href="https://render.com">Render</a>'s Svelte <a href="https://render.com/docs/deploy-svelte">quickstart guide</a> to see how this site was deployed.</p>
 	<p class="large">🧑‍💻</p>
 </main>
 
